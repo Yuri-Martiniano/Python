@@ -15,7 +15,7 @@ Este repositório está organizado da seguinte maneira:
 
 Aqui estão algumas das principais bibliotecas e ferramentas que estou utilizando neste repositório:
 
-- **🐍 Python**: Linguagem principal utilizada.
+- **<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" width="20" height="20" style="margin-right: 5px;"/> Python**: Linguagem principal utilizada.
 - **📊 pandas**: Manipulação e análise de dados.
 - **🔢 numpy**: Computação numérica.
 - **📈 matplotlib**: Visualização de dados.
