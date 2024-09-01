@@ -22,4 +22,4 @@ Aqui estão algumas das principais bibliotecas e ferramentas que estou utilizand
 - **🌐 requests**: Realização de requisições HTTP.
 - **🚀 Flask**: Desenvolvimento de APIs (se aplicável).
 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"/>
